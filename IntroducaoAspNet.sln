@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroducaoAspNet", "IntroducaoAspNet\IntroducaoAspNet.csproj", "{B061903C-2025-4FEB-B974-CA645BC515EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B061903C-2025-4FEB-B974-CA645BC515EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B061903C-2025-4FEB-B974-CA645BC515EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B061903C-2025-4FEB-B974-CA645BC515EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B061903C-2025-4FEB-B974-CA645BC515EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F59A89FF-BD40-4A0E-92DC-95E7D2EC9203}
+	EndGlobalSection
+EndGlobal
